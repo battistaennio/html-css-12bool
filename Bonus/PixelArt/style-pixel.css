@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+section{
+    margin: 10px 0;
+}
+
+.box{
+    height: 50px;
+}
+
+.box.yellow{
+    background-color: #fde845;
+}
+
+.box.dark-yellow{
+    background-color: #fdbd0b;
+}
+
+.box.black{
+    background-color: rgb(0, 0, 0);
+}
+
+.box.brown{
+    background-color: #bb442f;
+}
+
+
