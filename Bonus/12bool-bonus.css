@@ -149,6 +149,14 @@
     justify-content: center;
 }
 
+.just-end{
+    justify-content: flex-end;
+}
+
+.just-start{
+    justify-content: flex-start;
+}
+
 .just-between{
     justify-content: space-between;
 }
