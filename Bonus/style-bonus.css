@@ -12,6 +12,12 @@ section{
     line-height: 45px;
 }
 
+.box.big{
+    min-height: 100px;
+    background-color: #006cfa;
+
+}
+
 .box.green{
     background-color: #00e165;
     border: 1px solid #006cfa;
