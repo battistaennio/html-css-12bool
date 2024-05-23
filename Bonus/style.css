@@ -1,0 +1,23 @@
+section{
+    margin: 10px 0;
+}
+
+.box{
+    border: 1px solid white;
+    background-color: #006cfa;
+    min-height: 50px;
+    color: white;
+    font-size: 15px;
+    text-align: center;
+    line-height: 45px;
+}
+
+.box.green{
+    background-color: #00e165;
+    border: 1px solid #006cfa;
+}
+
+.box.row{
+    padding: 15px;
+}
+
