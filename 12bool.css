@@ -143,3 +143,12 @@
 .col-offset-11{
     margin-left: calc((100% / 12) * 11);
 }
+
+/* regole flex */
+.just-centre{
+    justify-content: center;
+}
+
+.just-between{
+    justify-content: space-between;
+}
